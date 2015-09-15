@@ -1,6 +1,6 @@
 # Homework Title
 
-[Download Zip](https://github.gatech.edu/cs1331-{semester}/{hw-name}/archive/master.zip)
+[Download Zip](https://github.gatech.edu/$semester$/$name$/archive/master.zip)
 
 ## Intro
 
